@@ -9,7 +9,7 @@ OMDB_API_KEY = 'b3748933'
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('index2.html')
 
 
 @app.route('/get_movies', methods=['POST'])
