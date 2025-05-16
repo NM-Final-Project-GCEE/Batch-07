@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Your actual AI model endpoint (GET-based)
 AI_API_URL = 'http://127.0.0.1:5000/recommend'
-OMDB_API_KEY = 'b3748933'
+OMDB_API_KEY = '[REDACTED]'
 
 @app.route('/')
 def home():
