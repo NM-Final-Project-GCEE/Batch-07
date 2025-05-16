@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Replace with your actual endpoints and keys
 AI_API_URL = 'http://www.omdbapi.com/'
-OMDB_API_KEY = "b3748933"
+OMDB_API_KEY = "[REDACTED]"
 
 @app.route('/')
 def home():
