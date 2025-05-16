@@ -13,7 +13,7 @@ A full-stack movie recommendation web app powered by machine learning. Users sel
 - 🖼️ Movie posters via OMDb API
 - 🌐 Flask-based backend + responsive HTML/CSS frontend
 
----
+
 
 
 ---
