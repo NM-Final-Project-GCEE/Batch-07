@@ -22,8 +22,10 @@ A full-stack movie recommendation web app powered by machine learning. Users sel
 
 ```bash
 pip install flask pandas scikit-learn requests
-cd Source Code
 ```
+Run the following from the `Source Code` Folder
+
+<br>
 
 Run Movie Recommend API:
 ```
