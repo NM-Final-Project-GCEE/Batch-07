@@ -40,7 +40,7 @@ python app.py
 
 Visit: http://127.0.0.1:8080
 
-⚠️ Replace [REDACTED] in frontend_server.py with your OMDb API key
+⚠️ Replace [REDACTED] in app.py with your OMDb API key
 
 <br>
 
