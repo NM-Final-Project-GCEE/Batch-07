@@ -1,7 +1,6 @@
 # 🎬 AI Movie Recommender
 
-A full-stack movie recommendation web app powered by machine learning. Users select a genre and IMDb rating to get top movie suggestions with posters, using a trained `RandomForestRegressor` and the OMDb API.
-
+Designed a full-stack movie recommendation web app using a RandomForestRegressor to predict movie relevance based on genre and IMDb ratings, with real-time poster and metadata retrieval via the OMDb API.
 <br>
 
 ---
